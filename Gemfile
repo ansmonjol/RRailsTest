@@ -29,6 +29,9 @@ gem 'activeadmin', github: 'gregbell/active_admin'
 # DEvice autentification
 gem 'devise'
 
+# Allow to load DB with CSV File
+gem 'active_admin_importable'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
